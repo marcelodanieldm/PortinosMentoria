@@ -111,11 +111,29 @@ linea 2
 //console.log('el resultado es ' + resultado )
 
 //funcion flecha
-const dividir = (a,b)=> a/b;
-let cociente= dividir(10/2);
-console.log('el resultado de la division es '+ cociente)
+//const dividir = (a,b)=> a/b;
+//let cociente= dividir(10,2);
+//console.log('el resultado de la division es '+ cociente)
 
 
   
+//estructura de funcion flecha o arrow function variable = (argumento, argumento)=> lo que hace la funcion;
+
+//Objetos 
+
+//const usuario = {
+
+  //nombre: 'Carlos',
+  //edad: 30,
+  //direccion:'Calle 13',
+  //saludar: function(){
+    //console.log('hola')
+  //}
+//}
+
+//Arrays
+const frutas= ['pomelo', 'manzana', 'sandia', 'pera']
+console.log(frutas.length)
+console.log(frutas[0])
 
 
